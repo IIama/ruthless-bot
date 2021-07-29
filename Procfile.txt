@@ -1,1 +1,1 @@
-Worker: node ./global/run.js
+Worker: node ./global/run.bat
