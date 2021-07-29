@@ -1,0 +1,14 @@
+{
+  "GuildID": "870038511271706646",
+  "GuildName": "test sever",
+  "Data": {
+    "Owner": "Shantxsoul#3824",
+    "OwnerID": "720051670163128422",
+    "WhiteListedUserIDs": [],
+    "WhiteListedUsers": [],
+    "BlackListedUserIDs": [],
+    "BlackListedUsers": [],
+    "TrustListedUserIDs": [],
+    "TrustListedUsers": []
+  }
+}
